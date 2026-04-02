@@ -1,0 +1,46 @@
+############################################
+### CRIADO: EILOIRO                      ###
+### ATUALIZACAO: 02/04/26                ###
+### GENERICO PARA NAO QUEBRAR A INTERNET ###
+############################################
+### NETFLIX ###
+netflix.com
+nflxvideo.net
+nflximg.net
+nflxext.com
+### AMAZON PRIME VIDEO ###
+primevideo.com
+amazonvideo.com
+aiv-cdn.net
+### DISNEY + ###
+disneyplus.com
+disney-plus.net
+bamgrid.com
+dssott.com
+### GLOBOPLAY ###
+globoplay.globo.com
+video.globo.com
+s01.video.glbimg.com
+### HBO ###
+hbomax.com
+max.com
+hbo.com
+hbogo.com
+### APPLE TV + ###
+tv.apple.com
+### PARAMOUNT + ###
+hbomax.com
+max.com
+hbo.com
+hbogo.com
+### STAR + ###
+starplus.com
+starott.com
+### PLUTO TV ###
+pluto.tv
+### TUBI TV ###
+tubitv.com
+### VIX ###
+vix.com
+### CRUNCHVROLL ###
+crunchyroll.com
