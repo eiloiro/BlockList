@@ -1,7 +1,7 @@
 #############################################
 ### CRIADO: EILOIRO                       ###
 ### ATUALIZACAO: 02/04/26                 ###
-### FACEBOOK,INSTAGRAM (PODE TER IMPACTO) ###
+### DNS GENERICOS PARA NAO QUEBRAR A NET  ###
 #############################################
 ### NETFLIX ###
 netflix.com
@@ -66,8 +66,3 @@ vod-progressive.akamaized.net
 dailymotion.com
 www.dailymotion.com
 dmcdn.net
-### FACEBOOK ###
-facebook.com
-fbcdn.net
-video.xx.fbcdn.net
-### INSTAGRAM ###
