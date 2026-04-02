@@ -1,8 +1,8 @@
-############################################
-### CRIADO: EILOIRO                      ###
-### ATUALIZACAO: 02/04/26                ###
-### GENERICO PARA NAO QUEBRAR A INTERNET ###
-############################################
+#############################################
+### CRIADO: EILOIRO                       ###
+### ATUALIZACAO: 02/04/26                 ###
+### FACEBOOK,INSTAGRAM (PODE TER IMPACTO) ###
+#############################################
 ### NETFLIX ###
 netflix.com
 nflxvideo.net
@@ -44,3 +44,30 @@ tubitv.com
 vix.com
 ### CRUNCHVROLL ###
 crunchyroll.com
+### TWITCH ###
+twitch.tv
+www.twitch.tv
+m.twitch.tv
+twitchcdn.net
+ttvnw.net
+jtvnw.net
+### KICK ###
+kick.com
+www.kick.com
+### TROVO ###
+trovo.live
+www.trovo.live
+trovo-cdn.com
+### VIMEO ###
+vimeo.com
+player.vimeo.com
+vod-progressive.akamaized.net
+### DAILYMOTION ###
+dailymotion.com
+www.dailymotion.com
+dmcdn.net
+### FACEBOOK ###
+facebook.com
+fbcdn.net
+video.xx.fbcdn.net
+### INSTAGRAM ###
