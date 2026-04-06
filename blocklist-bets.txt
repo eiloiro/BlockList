@@ -3,82 +3,75 @@
 ### ATUALIZACAO: 06/04/26                 ###
 ### BLOCKLIST PARA SITES DE APOSTAS (BR)  ###
 #############################################
-### GERAL ###
+# =========================
+# BETS CORE (BRASIL)
+# =========================
+.betano.bet.br
+.betano.com
+.bet365.bet.br
+.bet365.com
+.betfair.bet.br
+.betfair.com
+.superbet.bet.br
+.superbet.com
+.kto.bet.br
+.kto.com
+.estrelabet.bet.br
+.estrelabet.com
+.betnacional.bet.br
+.betnacional.com
+.betsson.bet.br
+.betsson.com
+.betway.com
+.sportingbet.com
+.blaze.bet.br
+.blaze.com
+.betsul.bet.br
+.betsul.com
+
+# =========================
+# INTERNACIONAIS (ATUAM NO BR)
+# =========================
+.1xbet.com
+.22bet.com
+.melbet.com
+.parimatch.com
+.pin-up.bet
+.bc.game
+.cloudbet.com
+
+# =========================
+# BRASIL / REGIONAIS
+# =========================
+.bet7k.bet.br
+.bet7k.com
+.brazino777.bet.br
+.brazino777.com
+.betdasorte.bet.br
+.betdasorte.com
+.rivalo.bet.br
+.rivalo.com
+.multibet.bet.br
+.multibet.com
+.oleybet.bet.br
+.oleybet.com
+
+# =========================
+# SUBDOMÍNIOS CRÍTICOS (BYPASS)
+# =========================
+.api.betano.com
+.api.bet365.com
+.cdn.betano.com
+.static.bet365.com
+.sports.bet365.com
+.live.betfair.com
+
+# =========================
+# TLD BLOCK (FORTE)
+# =========================
 .bet
 .casino
 .win
-### PRINCIPAIS BETS ###
-.betano.com
-.betano.bet.br
-.bet365.com
-.bet365.bet.br
-.betfair.com
-.betfair.bet.br
-.superbet.com
-.superbet.bet.br
-.kto.com
-.kto.bet.br
-.novibet.com
-.novibet.bet.br
-.betnacional.com
-.betnacional.bet.br
-.estrelabet.com
-.estrelabet.bet.br
-.betboom.com
-.betboom.bet.br
-.vbet.com
-.vbet.bet.br
-.betsul.com
-.betsul.bet.br
-.betsson.com
-.betsson.bet.br
-.sportingbet.com
-.sportingbet.bet.br
-.betway.com
-.betway.bet.br
-### BETS BRASIL ###
-.br4bet.com
-.br4bet.bet.br
-.multibet.com
-.multibet.bet.br
-.betdasorte.com
-.betdasorte.bet.br
-.brazino777.com
-.brazino777.bet.br
-.energiasbet.com
-.energia.bet
-.energia.bet.br
-.rivalo.com
-.rivalo.bet.br
-.bet7k.com
-.bet7k.bet.br
-.lottogreen.com
-.lottogreen.bet.br
-.oleybet.com
-.oleybet.bet.br
-.hiperbet.com
-.hiperbet.bet.br
-.goldebet.com
-.goldebet.bet.br
-.esportivabet.com
-.esportivabet.bet.br
-.stake.com
-.stake.bet.br
-.blaze.com
-.blaze.bet.br
-### INTERNACIONAIS QUE OPERAM NO BRASIL ###
-.betmgm.com
-.betmgm.bet.br
-.1xbet.com
-.1xbet.bet.br
-.22bet.com
-.22bet.bet.br
-.parimatch.com
-.parimatch.bet.br
-.melbet.com
-.melbet.bet.br
-.pin-up.bet
-.pinup.bet.br
 .bc.game
 .bc.game.bet.br
 .cloudbet.com
