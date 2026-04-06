@@ -70,6 +70,7 @@
 # TLD BLOCK (FORTE)
 # =========================
 .bet
+.bet.br
 .casino
 .win
 .bc.game
