@@ -19,6 +19,7 @@ bamgrid.com
 dssott.com
 ### GLOBOPLAY ###
 globoplay.globo.com
+globoid.globo.com
 globoplay.com.br
 video.globo.com
 s01.video.glbimg.com
